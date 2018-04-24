@@ -1,0 +1,12 @@
+html, body {
+  font-family: 'Lato', sans-serif;
+}
+
+th, td {
+  text-align: left;
+  padding: 4px;
+}
+
+thead tr {
+  background-color: #AAA;
+}
